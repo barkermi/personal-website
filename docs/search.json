@@ -1,0 +1,41 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-06T13:00:38-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Matt Barker",
+      "author": [],
+      "contents": "\r\nWelcome to my website. I hope you enjoy. More to come.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-06T13:00:38-07:00"
+    },
+    {
+      "path": "postcard.html",
+      "title": "Matt Barker",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Matt Barker\r\n          \r\n          \r\n          Hello\r\n          Publications\r\n          Teaching\r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Matt Barker\r\n          \r\n          \r\n            \r\n              I am a forester/remote pilot/remote sensing scientist living in Corvallis, OR. Currently I work at Oregon State University as teaching assistant. I love talking about surfing, drones, and statistics.\r\n            \r\n            \r\n              I am a forester/remote pilot/remote sensing scientist living in Corvallis, OR. Currently I work at Oregon State University as teaching assistant. I love talking about surfing, drones, and statistics.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    \r\n                \r\n                                \r\n                  \r\n                    \r\n                \r\n                                \r\n                  \r\n                    \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-04-06T13:01:59-07:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-06T13:00:40-07:00"
+    }
+  ],
+  "collections": []
+}

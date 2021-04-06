@@ -1,0 +1,17 @@
+---
+title: "Matt Barker"
+image: "images/matt_drone.png"
+links:
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
+    url: "https://www.linkedin.com/in/matthewibarker/"
+  - label: '`r fontawesome::fa("github", height = "25px")`'
+    url: "https://github.com/barkermi"
+  - label: '`r fontawesome::fa("envelope", height = "25px")`'
+    url: "matthew.barker@oregonstate.edu"
+output:
+  postcards::jolla
+---
+ 
+I am a forester/remote pilot/remote sensing scientist living in Corvallis, OR. 
+Currently I work at Oregon State University as teaching assistant. I love talking about surfing, 
+drones, and statistics.
