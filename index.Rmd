@@ -1,5 +1,15 @@
 ---
 title: "Matt Barker"
+image: "images/matt_drone.png"
+links:
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
+    url: "https://www.linkedin.com/in/matthewibarker/"
+  - label: '`r fontawesome::fa("github", height = "25px")`'
+    url: "https://github.com/barkermi"
+  - label: '`r fontawesome::fa("envelope", height = "25px")`'
+    url: "matthew.barker@oregonstate.edu"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
@@ -14,5 +24,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Welcome to *my* website. I hope you enjoy.
-More to come.
+I am a forester/UAS remote pilot/remote sensing scientist living in Corvallis, OR. 
+I study as a PhD student at Oregon State University and receive funding as a graduate teaching/reasearch assistant. 
+I am an associate of the Aerial Information Systems lab directed by my advisor, Michael Wing.
+Additionally, I am an ORISE research participant, collaborating with the USFS PNW research facility. 
+Current passions include: trees, drones, GIS, statistics, coding, and surfing.

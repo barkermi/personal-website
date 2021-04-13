@@ -12,6 +12,8 @@ output:
   postcards::jolla
 ---
  
-I am a forester/remote pilot/remote sensing scientist living in Corvallis, OR. 
-Currently I work at Oregon State University as teaching assistant. I love talking about surfing, 
-drones, and statistics.
+I am a forester/UAS remote pilot/remote sensing scientist living in Corvallis, OR. 
+I study as a PhD student at Oregon State University and receive funding as a graduate teaching/reasearch assistant. 
+I am an associate of the Aerial Information Systems lab directed by my advisor, Michael Wing.
+Additionally, I am an ORISE research participant, collaborating with the USFS PNW research facility. 
+Current passions include: trees, drones, GIS, statistics, coding, and surfing.
