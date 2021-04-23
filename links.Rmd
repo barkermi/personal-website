@@ -1,0 +1,21 @@
+---
+title: "Links"
+description:
+  Links to friends' and colleagues' websites.
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+[Aerial Inofrmation Systems Lab at Oregon State University](http://ais.forestry.oregonstate.edu/)
+
+[Western Oregon Stream FLOw PERmanence (FLOwPER)](https://www.fs.usda.gov/pnw/projects/western-oregon-stream-flow-permanence-flowper)
+
+[Pacific Northwest Aquatic Monitoring Partnership: Remote Sensing Forum](https://www.pnamp.org/project/remote-sensing-forum)
+
+<!-- Distill is a publication format for scientific and technical writing, native to the web.  -->
+
+<!-- Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>. -->

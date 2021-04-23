@@ -22,7 +22,7 @@ Graduate and undergraduate students learn how to design and implement remote sen
 
 ## FE 257 GIS and Forest Engineering Applications
 
-Instructor: Michael Wing PhD
+Instructor: Michael Wing, PhD
 
 Undergraduate students are introduced to geographic information systems (GIS) in the context of forest management. Students learn to execute geospatial processing tasks and are introduced to fundamental geomatics. Additionally, the course covers GPS and introduces remote sensing techniques.The course currently implements ESRI ArcGIS Pro software, graciously provided through Oregon State University.
 
