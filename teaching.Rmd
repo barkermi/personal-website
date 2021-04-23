@@ -10,29 +10,29 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Fall 
+## Fall
 
-## FE 423/523 Unmanned Aircraft System Remote Sensing
+#### FE 423/523 Unmanned Aircraft System Remote Sensing
 
 Instructor: Michael Wing, PhD
 
 Graduate and undergraduate students learn how to design and implement remote sensing monitoring projects that incorporate unmanned aircraft systems. Topics covered include: Part 107 regulations, aircraft platforms and sensors, study design, automated flight planning, image processing, orthomosaic generation with Agisoft Metashape, and creation of secondary products including vegetation indices, point clouds, and surface models. Students also receive hands-on flight training and produce a scientific manuscript.
 
-# Winter
+## Winter
 
-## FE 257 GIS and Forest Engineering Applications
+#### FE 257 GIS and Forest Engineering Applications
 
 Instructor: Michael Wing, PhD
 
 Undergraduate students are introduced to geographic information systems (GIS) in the context of forest management. Students learn to execute geospatial processing tasks and are introduced to fundamental geomatics. Additionally, the course covers GPS and introduces remote sensing techniques.The course currently implements ESRI ArcGIS Pro software, graciously provided through Oregon State University.
 
-# Spring
+## Spring
 
-## FE 472 Mechanized Harvesting and Simulation
+#### FE 472 Mechanized Harvesting and Simulation
 
 Instructor: Jeffrey Wimer
 
-## GEOG 462/562
+#### GEOG 462/562
 
 Instructor: Robert Kennedy, PhD
 
