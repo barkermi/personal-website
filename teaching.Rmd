@@ -1,12 +1,7 @@
 ---
-title: "Untitled"
+title: "Teaching"
 description: |
-  A new article created using the Distill format.
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  A portion of my funding comes from the following classes that I TA.
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -15,11 +10,32 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. 
+# Fall 
 
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+## FE 423/523 Unmanned Aircraft System Remote Sensing
 
+Instructor: Michael Wing, PhD
 
+Graduate and undergraduate students learn how to design and implement remote sensing monitoring projects that incorporate unmanned aircraft systems. Topics covered include: Part 107 regulations, aircraft platforms and sensors, study design, automated flight planning, image processing, orthomosaic generation with Agisoft Metashape, and creation of secondary products including vegetation indices, point clouds, and surface models. Students also receive hands-on flight training and produce a scientific manuscript.
 
+# Winter
 
+## FE 257 GIS and Forest Engineering Applications
 
+Instructor: Michael Wing PhD
+
+Undergraduate students are introduced to geographic information systems (GIS) in the context of forest management. Students learn to execute geospatial processing tasks and are introduced to fundamental geomatics. Additionally, the course covers GPS and introduces remote sensing techniques.The course currently implements ESRI ArcGIS Pro software, graciously provided through Oregon State University.
+
+# Spring
+
+## FE 472 Mechanized Harvesting and Simulation
+
+Instructor: Jeffrey Wimer
+
+## GEOG 462/562
+
+Instructor: Robert Kennedy, PhD
+
+<!-- Distill is a publication format for scientific and technical writing, native to the web.  -->
+
+<!-- Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>. -->

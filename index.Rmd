@@ -6,6 +6,8 @@ links:
     url: "https://www.linkedin.com/in/matthewibarker/"
   - label: '`r fontawesome::fa("github", height = "25px")`'
     url: "https://github.com/barkermi"
+  - label: '`r fontawesome::fa("youtube", height = "25px")`'
+    url: "https://www.youtube.com/channel/UCSkQM8oqqtb2U14JdXs6bbw"
   - label: '`r fontawesome::fa("envelope", height = "25px")`'
     url: "matthew.barker@oregonstate.edu"
 output:

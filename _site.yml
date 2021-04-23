@@ -7,6 +7,8 @@ navbar:
   right:
     - text: "Hello"
       href: index.html
+    - text: "Projects"
+      href: projects.html
     - text: "Publications"
       href: about.html
     - text: "Teaching"

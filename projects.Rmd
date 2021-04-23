@@ -1,0 +1,26 @@
+---
+title: "Projects"
+description: |
+  Current and previous research projects.
+author:
+  - name: Matt Barker
+    url: https://example.com/norajones
+    affiliation: Oregon State University College of Forestry
+    affiliation_url: https://www.forestry.oregonstate.edu/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Pacific Madrone Leaf Blight Detection with Unmanned Aerial Systems and Machine Learning
+
+Automatic Methods for Quantifying Coarse Woody Debris from Unmanned Aircraft Systems Imagery
+
+FLOwPER
+
+<!-- Distill is a publication format for scientific and technical writing, native to the web.  -->
+
+<!-- Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>. -->

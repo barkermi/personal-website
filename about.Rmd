@@ -1,13 +1,14 @@
 ---
-title: "About this site"
+title: "Publications"
 description: |
-  Some additional details about the website
+  Current and upcoming publications
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Current publications
-- [Consequences of reduced light for flower production in conifer-invaded meadows of the Pacific Northwest, U.S.A](articles/article1.html)
-- [Another article](articles/article2.html)
+## Upcoming Publications
+
+<!-- -   [Consequences of reduced light for flower production in conifer-invaded meadows of the Pacific Northwest, U.S.A](articles/article1.html) -->
+<!-- -   [Another article](articles/article2.html) -->
