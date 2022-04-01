@@ -28,11 +28,15 @@ Undergraduate students are introduced to geographic information systems (GIS) in
 
 ## Spring
 
+#### FES 240 Forest Biology
+
+Instructor: Glenn Howe
+
 #### FE 472 Mechanized Harvesting and Simulation
 
 Instructor: Jeffrey Wimer
 
-#### GEOG 462/562
+#### GEOG 462/562 GIScience III: Programming for Geospatial Analysis
 
 Instructor: Robert Kennedy, PhD
 

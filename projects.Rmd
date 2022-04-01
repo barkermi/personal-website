@@ -15,9 +15,11 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Pacific Madrone Leaf Blight Detection with Unmanned Aerial Systems and Machine Learning
+Multitemporal Pacific madrone leaf blight assessment with UAS
 
-Automatic Methods for Quantifying Coarse Woody Debris from Unmanned Aircraft Systems Imagery
+Sampling-based approaches to estimating two-dimensional coarse woody debris area from UAS imagery
+
+Assessing impacts of restoration activities and wildland fire to a riparian thermal landscape from thermal imagery
 
 FLOwPER
 
