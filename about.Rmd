@@ -10,7 +10,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Publications
 
-\- [Wing, M.G., Barker, M.I., and Burnett, J.D. 2022. Applying Unmanned Aircraft System (UAS) to Detect Grapevine Red Blotch Virus in an Oregon
-Vineyard. JOJ Hortic Arboric. 3(3): 1-5. DOI: 10.19080/JOJHA.2022.03.555612](https://juniperpublishers.com/jojha/pdf/JOJHA.MS.ID.555612.pdf)
+\- [Wing, M.G., Barker, M.I., and Burnett, J.D. 2022. Applying Unmanned Aircraft System (UAS) to Detect Grapevine Red Blotch Virus in an Oregon Vineyard. JOJ Hortic Arboric. 3(3): 1-5. DOI: 10.19080/JOJHA.2022.03.555612](https://juniperpublishers.com/jojha/pdf/JOJHA.MS.ID.555612.pdf)
 
 <!-- -   [Another article](articles/article2.html) -->
