@@ -5,15 +5,15 @@
       "title": "Publications",
       "description": "Current and upcoming publications",
       "author": [],
-      "contents": "\r\nUpcoming Publications\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-18T12:53:23-07:00"
+      "contents": "\r\nPublications\r\n- Wing, M.G., Barker, M.I., and Burnett, J.D. 2022. Applying Unmanned Aircraft System (UAS) to Detect Grapevine Red Blotch Virus in an Oregon Vineyard. JOJ Hortic Arboric. 3(3): 1-5. DOI: 10.19080/JOJHA.2022.03.555612\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-31T17:50:29-07:00"
     },
     {
       "path": "index.html",
       "title": "Matt Barker",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          Matt Barker\r\n          \r\n          \r\n          Hello\r\n          Projects\r\n          Publications\r\n          Teaching\r\n          Links\r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Matt Barker\r\n          \r\n          \r\n            \r\n              I am a forester/UAS remote pilot/remote sensing scientist living in Corvallis, OR. I study as a PhD student at Oregon State University and receive funding as a graduate teaching/research assistant. I am an associate of the Aerial Information Systems lab directed by my advisor, Michael Wing. Additionally, I am an ORISE research participant, collaborating with the USFS PNW research facility.\r\n              Current passions include: trees, drones, GIS, statistics, coding, and surfing.\r\n            \r\n            \r\n              I am a forester/UAS remote pilot/remote sensing scientist living in Corvallis, OR. I study as a PhD student at Oregon State University and receive funding as a graduate teaching/research assistant. I am an associate of the Aerial Information Systems lab directed by my advisor, Michael Wing. Additionally, I am an ORISE research participant, collaborating with the USFS PNW research facility.\r\n              Current passions include: trees, drones, GIS, statistics, coding, and surfing.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    \r\n                \r\n                                \r\n                  \r\n                    \r\n                \r\n                                \r\n                  \r\n                    \r\n                \r\n                                \r\n                  \r\n                    \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2021-05-26T16:40:50-07:00"
+      "last_modified": "2022-03-31T17:50:29-07:00"
     },
     {
       "path": "links.html",
@@ -22,7 +22,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\nAerial Information Systems Lab at Oregon State University\r\nWestern Oregon Stream FLOw PERmanence (FLOwPER)\r\nPacific Northwest Aquatic Monitoring Partnership: Remote Sensing Forum\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-18T12:53:25-07:00"
+      "last_modified": "2022-03-31T17:50:31-07:00"
     },
     {
       "path": "projects.html",
@@ -36,7 +36,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nPacific Madrone Leaf Blight Detection with Unmanned Aerial Systems and Machine Learning\r\nAutomatic Methods for Quantifying Coarse Woody Debris from Unmanned Aircraft Systems Imagery\r\nFLOwPER\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-18T12:53:25-07:00"
+      "last_modified": "2022-03-31T17:50:31-07:00"
     },
     {
       "path": "teaching.html",
@@ -45,7 +45,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\nFall\r\nFE 423/523 Unmanned Aircraft System Remote Sensing\r\nInstructor: Michael Wing, PhD\r\nGraduate and undergraduate students learn how to design and implement remote sensing monitoring projects that incorporate unmanned aircraft systems. Topics covered include: Part 107 regulations, aircraft platforms and sensors, study design, automated flight planning, image processing, orthomosaic generation with Agisoft Metashape, and creation of secondary products including vegetation indices, point clouds, and surface models. Students also receive hands-on flight training and produce a scientific manuscript.\r\nWinter\r\nFE 257 GIS and Forest Engineering Applications\r\nInstructor: Michael Wing, PhD\r\nUndergraduate students are introduced to geographic information systems (GIS) in the context of forest management. Students learn to execute geospatial processing tasks and are introduced to fundamental geomatics. Additionally, the course covers GPS and introduces remote sensing techniques.The course currently implements ESRI ArcGIS Pro software, graciously provided through Oregon State University.\r\nSpring\r\nFE 472 Mechanized Harvesting and Simulation\r\nInstructor: Jeffrey Wimer\r\nGEOG 462/562\r\nInstructor: Robert Kennedy, PhD\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-18T12:53:26-07:00"
+      "last_modified": "2022-03-31T17:50:33-07:00"
     },
     {
       "path": "test.html",
@@ -54,7 +54,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\nEducation\r\nOregon State University 03/2022\r\nB.S. Natural Resource Education\r\nSuffolk County Community College 01/2013\r\nA.A. Liberal Arts\r\nExperience\r\nSTART Leader – Transfer Students Lead/ Oregon State University 04/2021 - 09/2021\r\nAided in the facilitation of OSU’s new transfer student orientation program via Zoom.\r\nAmazon Prime Shopper/ Amazon 09/2020 - Present\r\nGrocery shop for Prime customers’ orders within 2-hour delivery window and communicate with prime customers through shopping app.\r\nCurriculum Development Intern/Save The Water/Virtual 05/2020 - 09/2020\r\nWorking with the Curriculum Development team, I learned how to create and develop lesson plans that were focused on global climate change issues. Additionally, I learned how to design these lesson plans on Google Docs, and Google Slides.\r\nSummer Camp Counselor/The Florida Aquarium 06/2019 - 08/2019\r\nAssisted up to 10 elementary school campers with classroom activities, assisted with monitoring up to 50 campers during morning care, afternoon free time and after care. Assisted campers with on-site aquarium activities and weekly off-site field trips.\r\nVolunteering\r\nGuest Engagement Ambassador/ Tampa Zoo 01/2020 - 03/2020\r\nI educated and engaged with zoo guests at conservation stations around the zoo. I would answer guests’ questions and discuss a variety of conservation topics including the importance of saving manatees and red wolves.\r\nSchool Programs Docent/ The Florida Museum of Natural History 09/2018 - 05/2019\r\nLed school group tours through exhibits and then facilitated classroom activities that were centered around the exhibit. Some of the museum topics that were discussed were Permian Monsters Exhibit and Butterflies and Moths.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-10-28T21:46:54-07:00"
+      "last_modified": "2022-03-31T17:50:34-07:00"
     }
   ],
   "collections": []
